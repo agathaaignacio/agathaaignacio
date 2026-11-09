@@ -20,33 +20,33 @@
 
 ## 🌸 Sobre mim
 
-Sou estudante do curso **Técnico em Desenvolvimento de Sistemas** no **Senac**, com interesse especial em **desenvolvimento front-end**, programação e bancos de dados.
+Oi, eu sou a **Agatha**! 💗
 
-Gosto de criar interfaces **bonitas, acessíveis e que funcionem bem em qualquer tela**.
-E sim: *se o layout não está alinhado, eu não consigo dormir* 😅
+Estudo **Técnico em Desenvolvimento de Sistemas** no **Senac** e me apaixonei por **front-end**: gosto de transformar ideias em interfaces **bonitas, acessíveis e que funcionam bem em qualquer tela**. Também estou explorando **programação** e **bancos de dados**, porque por trás de toda tela bonita existe um sistema bem pensado. ✨
 
-> 💗 Feito com **HTML**, **CSS**, **JS** e muito café ☕ 💗
+> Entre um café e um `display: flex`, eu vou deixando a web um pouquinho mais bonita. 🎀
 
 <br/>
 
 ## 🎀 O que estou fazendo agora
 
-| | |
-|:---|:---|
-| 💻 | Praticando **C#**, **.NET** e **Programação Orientada a Objetos** |
-| 🗄️ | Estudando bancos de dados relacionais, **SQL** e **MariaDB** |
-| 🔧 | Desenvolvendo projetos acadêmicos e pessoais |
-| 🏗️ | Construindo uma base sólida para trabalhar com **APIs** e arquitetura front-end |
+| | Foco | No momento |
+|:---:|:---|:---|
+| 💻 | **C# e .NET** | Praticando **Programação Orientada a Objetos** e boas práticas de código |
+| 🗄️ | **Bancos de dados** | Estudando **SQL**, **MariaDB** e modelagem de dados relacionais |
+| 🌐 | **APIs e front-end** | Construindo uma base sólida para conectar interfaces a sistemas reais |
+| 🔧 | **Projetos** | Colocando tudo em prática em projetos acadêmicos e pessoais |
 
 <br/>
 
-## 📚 Em formação
+## 📚 Minha jornada
 
-- 🎓 Técnico em Desenvolvimento de Sistemas — **Senac**
+- 🎓 **Técnico em Desenvolvimento de Sistemas** — Senac *(cursando)*
 - 💻 Desenvolvendo projetos com **C#** e **.NET**
-- 🗄️ Aprendendo modelagem de dados e **SQL**
+- 🗄️ Aprendendo **modelagem de dados** e **SQL**
 - 🧠 Estudando **POO** e boas práticas de desenvolvimento
-- 🚀 Objetivo: tornar-me desenvolvedora back-end e evoluir em arquitetura de software
+
+🚀 **Objetivo:** me tornar desenvolvedora **full stack**, unindo **interfaces bonitas** a **sistemas bem estruturados**.
 
 <br/>
 
@@ -54,17 +54,28 @@ E sim: *se o layout não está alinhado, eu não consigo dormir* 😅
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF69B4)
-![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF69B4)
+## ✨ Tecnologias & ferramentas
+
+<div align="center">
+
+### Linguagens e desenvolvimento
+
 ![C#](https://img.shields.io/badge/C%23-FF69B4?style=for-the-badge&logo=csharp&logoColor=000000)
 ![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=FF69B4)
 
-![MariaDB](https://img.shields.io/badge/MariaDB-FF69B4?style=for-the-badge&logo=mariadb&logoColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF69B4)
+### Bancos de dados
+
+![SQL](https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logoColor=000000)
+![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=FF69B4)
+
+### Ferramentas
+
 ![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF69B4)
 ![VS Code](https://img.shields.io/badge/VS%20Code-FF69B4?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=FF69B4)
+
+</div>
 
 </div>
 
@@ -72,12 +83,12 @@ E sim: *se o layout não está alinhado, eu não consigo dormir* 😅
 
 ## 🌷 Objetivos
 
-- 🧩 Fortalecer minha lógica de programação
-- 🎨 Aprender desenvolvimento front-end e construção de APIs
-- 🗄️ Aprofundar meus conhecimentos em PostgreSQL, MariaDB e SQL
-- 💻 Evoluir em C#/.NET e boas práticas de programação
-- 🧠 Estudar arquitetura de software e sistemas escaláveis
-- 🚀 Construir uma carreira sólida como desenvolvedora de software
+- 🧩 Fortalecer minha **lógica de programação**
+- 🎨 Aprender **desenvolvimento front-end** e **construção de APIs**
+- 🗄️ Aprofundar meus conhecimentos em **SQL** e **MariaDB**
+- 💻 Evoluir em **C# e .NET**, sempre com boas práticas de programação
+- 🧠 Estudar **arquitetura de software** e **sistemas escaláveis**
+- 🚀 Construir uma carreira sólida como **desenvolvedora full stack**
 
 <br/>
 
@@ -85,12 +96,11 @@ E sim: *se o layout não está alinhado, eu não consigo dormir* 😅
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&border_color=FFC0CB&bg_color=FFFFFF&title_color=FF69B4&text_color=000000&icon_color=FF69B4&ring_color=FF69B4&count_private=true" alt="Estatísticas" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&border_color=FFC0CB&bg_color=FFFFFF&title_color=FF69B4&text_color=000000" alt="Linguagens mais usadas" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agathaaignacio&stroke=FFC0CB&background=FFFFFF&ring=FF69B4&fire=FF69B4&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=FF69B4&border=FFC0CB" alt="Sequência de contribuições" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&stroke=FFC0CB&background=FFFFFF&ring=FF69B4&fire=FF69B4&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=FF69B4&border=FFC0CB" alt="Sequência de contribuições" />
+*Cada commit é um passinho nessa jornada.* 🌸
 
 </div>
 
@@ -100,8 +110,8 @@ E sim: *se o layout não está alinhado, eu não consigo dormir* 😅
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/SEU-LINKEDIN)
-[![E-mail](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=FF69B4)](mailto:SEU-EMAIL@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/agatha-ignacio)
+[![E-mail](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=FF69B4)](mailto:agatha.tereza@live.com)
 
 <br/>
 
