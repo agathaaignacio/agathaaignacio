@@ -50,9 +50,6 @@ Estudo **Técnico em Desenvolvimento de Sistemas** no **Senac** e me apaixonei p
 
 <br/>
 
-## ✨ Tecnologias & ferramentas
-
-<div align="center">
 
 ## ✨ Tecnologias & ferramentas
 
