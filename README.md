@@ -117,7 +117,3 @@ Estudo **Técnico em Desenvolvimento de Sistemas** no **Senac** e me apaixonei p
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFD1DC&height=120&section=footer" alt="Rodapé" />
 
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/agathaaignacio/agathaaignacio/main/assets/rodape.png-removebg-preview" width="100%" alt="Rodapé Agatha Ignacio">
-</div>
