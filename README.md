@@ -39,10 +39,9 @@ Estudo **Técnico em Desenvolvimento de Sistemas** no **Senac** e me apaixonei p
 
 <br/>
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5yc2JsbDZwdmE5bWVxMTJ3MmhtN2RlYnhrdWV1MjR2ejd3bGwxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif"  />
+<div data-importer="image" align="right">
+  <img data-importer="image" height="200" src="https://i.pinimg.com/originals/85/9e/c1/859ec111579c6b9ebb10f4ca0c04bddb.gif"  />
 </div>
-##
 
 ## 📚 Minha jornada
 
