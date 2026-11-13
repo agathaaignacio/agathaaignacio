@@ -39,10 +39,6 @@ Estudo **Técnico em Desenvolvimento de Sistemas** no **Senac** e me apaixonei p
 
 <br/>
 
-<div data-importer="image" align="right">
-  <img data-importer="image" height="200" src="https://i.pinimg.com/originals/85/9e/c1/859ec111579c6b9ebb10f4ca0c04bddb.gif"  />
-</div>
-
 ## 📚 Minha jornada
 
 - 🎓 **Técnico em Desenvolvimento de Sistemas** — Senac *(cursando)*
@@ -120,4 +116,8 @@ Estudo **Técnico em Desenvolvimento de Sistemas** no **Senac** e me apaixonei p
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFD1DC&height=120&section=footer" alt="Rodapé" />
 
+</div>
+
+<div align="center">
+  <img src="assets/rodape.png" width="100%" alt="Rodapé - Agatha Ignacio">
 </div>
