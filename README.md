@@ -119,5 +119,5 @@ Estudo **Técnico em Desenvolvimento de Sistemas** no **Senac** e me apaixonei p
 </div>
 
 <div align="center">
-  <img src="assets/rodape.png" width="100%" alt="Rodapé - Agatha Ignacio">
+  <img src="https://raw.githubusercontent.com/agathaaignacio/agathaaignacio/main/assets/rodape.png-removebg-preview" width="100%" alt="Rodapé Agatha Ignacio">
 </div>
